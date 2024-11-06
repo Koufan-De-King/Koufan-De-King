@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![Koufan-De-King's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koufan-De-King)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Koufan-De-King/Koufan-De-King** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
